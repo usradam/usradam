@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m Adam  
 - 👀 I’m currently interested in data science
--  :sleeping_bed: Welcome to my page. Good afternoon, good evening and good night
 
 ![birgds-hippo](https://github.com/usradam/usradam/assets/147444558/9efe8222-926b-445e-9122-b23461c703d6)
 
