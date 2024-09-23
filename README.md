@@ -11,7 +11,7 @@
 
 <p align='center'>
     <!-- Made using capsule-render ( https://github.com/kyechan99/capsule-render ) -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Languages%20I%20Use&fontSize=20&section=footer&fontAlignY=80&reversal=false&animation=scaleIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Languages%20I%20Use&fontSize=18&section=footer&fontAlignY=80&reversal=false&animation=scaleIn&fontColor=FFFFFF"/>
 </p>
 <p align="center">
     <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
